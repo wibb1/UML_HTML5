@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Susie's Signs About Us w/Geolocation Page</title>
+
+    <link
+      rel="stylesheet"
+      media="screen"
+      href="CSS/reset.css"
+      type="text/css"
+    />
+    <link rel="stylesheet" media="screen" href="CSS/base.css" type="text/css" />
+
+    <script
+      src="JavaScripts/modernizr.custom.03287.js"
+      type="text/javascript"
+    ></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script src="JavaScripts/aboutus.js" type="text/javascript"></script>
+  </head>
+
+  <body id="aboutus">
+    <!-- Wrap Div Beginning -->
+    <div id="wrap">
+      <header id="masthead">
+        <h1>Building New Communication Every Day</h1>
+        <img
+          src="images/SusiesSignsDark.png"
+          width="200"
+          height="150"
+          alt="Susies_Signs_logo"
+        />
+      </header>
+
+      <nav>
+        <ul>
+          <li><a class="nav-home" href="index.html">Home</a></li>
+          <li><a class="nav-aboutus" href="aboutus.html">About Us</a></li>
+          <li><a class="nav-design" href="design.html">Design Tool</a></li>
+          <li>
+            <a class="nav-consultation" href="consultation.html"
+              >Consultation</a
+            >
+          </li>
+
+          <li><a class="nav-contact" href="contact.html">Contact Us</a></li>
+          <li>
+            <a class="nav-capabilities" href="capabilities.html"
+              >Capabilities</a
+            >
+          </li>
+        </ul>
+      </nav>
+
+      <div id="innerwrap">
+        <!-- Page Content Beginning -->
+        <section id="content">
+          <h2>Our mission statement</h2>
+
+          <p>
+            We here at Susie's Signs are devoted to making signs that stand out,
+            stand up, and stand the test of time. If you need a sign for
+            interior or exterior use, just let us know and we will work with you
+            to design and make the sign that fits your vision.
+          </p>
+
+          <p>
+            The signs that are shown as examles are just some of the ideas that
+            we have made happen for our many clients. Bring your ideas to light
+            is our business, if you don't see something that is appeals to you,
+            feel free to use our design tool here.
+            <a href="Design.html">Design Tool</a> or email us a design of your
+            own. <a href="mailto:susie@susiessigns.com">Email us</a>
+          </p>
+
+          <h2>Visit Us</h2>
+          <!-- Geolocation Map DIV Beginning -->
+          <div id="map"></div>
+
+          <!-- Async script executes immediately -  must be after DOM elements used in callback - need to replace with an API key to work properly -->
+          <script
+            src="https://maps.googleapis.com/maps/api/js?key=REPLACE_WITH_GOOGLE_API_KEY&callback=initMap&libraries=&v=weekly"
+            async
+          ></script>
+          <!-- Geolocation Map DIV End -->
+        </section>
+        <!-- Page Content End -->
+
+        <!-- Aside (sidebar) Beginning -->
+        <aside id="secondary-content">
+          <h2>Recent Projects</h2>
+
+          <p>
+            Susie's Signs is committed to making your project come out just the
+            way you want it. We make sure you are involved the entire way and
+            all of your ideas are always taken into account. I hope that you can
+            see that what we build and the way that we build it are reflected in
+            the final product.
+          </p>
+
+          <h3>The Johnsons</h3>
+
+          <img
+            src="images/Johnsons.jpg"
+            width="235"
+            height="130"
+            alt="FunkyOrange Smoothie"
+          />
+
+          <p>
+            Working with Sarah Johnson, we designed this sign for her cabin in
+            Vermont. She wanted a sign that guests would notice when coming down
+            the road to her secluded gravel driveway but not spoil the drive for
+            others. She loved her sign and we loved working with her.
+          </p>
+
+          <h3>The Huntleys</h3>
+
+          <img src="images/Huntleys.jpg" alt="" width="235" height="130" />
+
+          <p>
+            Longtime friends of ours, the Huntleys were one of our first
+            customers. They came back to us in 2019 when they wanted a sign made
+            from some of the wood harvested from their property in New
+            Hampshire. We were happy to help! The wood was rough sawn when it
+            came in but we were able to produce a great piece of art for them to
+            hang at their house in Massachusetts.
+          </p>
+        </aside>
+        <!-- Aside (sidebar) End -->
+      </div>
+      <!-- Innerwrap Div End -->
+
+      <footer id="footer">
+        <div class="left">
+          <p>Copyright Susie's Signs 2021</p>
+          <p>
+            Registration on or use of this site constitutes acceptance of our
+            <a href="useragreement.html"> User agreement </a> and
+            <a href="privacy.html">Privacy Policy.</a>
+          </p>
+        </div>
+        <div class="right">
+          <p>This Could Be Your Sign</p>
+          <p>All We Need Is Your Input</p>
+        </div>
+      </footer>
+    </div>
+    <!-- Wrap Div End -->
+  </body>
+</html>
