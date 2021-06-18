@@ -1,9 +1,9 @@
 # DESCRIPTION
 
-This site was to complete the HTML5 course that I took through UMASS Lowell. The requirements set forth for the assignment are detailed below.  My wife has talked endlessly about starting a business like this, making signs using the technologies on the Capabilities page. All of the signs were made by other and the pictures were borrowed from Etsy.  The descriptions are completely fabricated to make the site look and feel like a real business.  So much so that my professor asked us to make signs for him, had to let that oportunity go since we are definitely not up and running yet.  
+This site was developed to complete an HTML5 course that I took as part of the second bachelors degree program UMASS Lowell. The requirements set forth for the assignment are detailed below.  My wife has talked endlessly about starting a business like this, making signs using the technologies on the Capabilities page. All of the signs were made by others and the pictures were borrowed from Etsy.  The descriptions are completely fabricated to make the site look and feel like a real business.  So much so that my professor asked us to make signs for him, I had to let that oportunity go since we are definitely not up and running yet.  
 
 #
-# FINAL PROJECT
+# FINAL PROJECT DESCRIPTION
 
 Your Final Project, which accounts for 25% of your Total Grade, will be a fully functioning Website!
 
@@ -13,8 +13,7 @@ Don't spend too much time with design work, color themes, etc.; this is an HTML 
 As I previously mentioned, the first several Lessons will give you a working 6-page website ... you don’t need to re-invent the wheel ... most code used today is recycled ... so use that as your base/template, and then make the pages your own with different subject matter, colors, , etc.
 One final request: keep the audio/video files short ... I don’t need to watch a three-hour adaptation of War & Peace; I just need to see that you know how to insert it. I don’t want to wait five to ten minutes for you project to download; try to keep it under 50MB!
 
-#
-# REQUIRED COMPONENTS
+## Required Components
 
 | Requirement | Points |
 |---|---|
@@ -31,7 +30,7 @@ One final request: keep the audio/video files short ... I don’t need to watch 
 |An Instance of Drag and Drop | 2 | 
 
 #
-# PAGES
+# FINAL SITE PAGES
 ##
 ## Home Page
 
@@ -82,6 +81,7 @@ Photographs were borrowed from Etsy since I don’t have the ability to make sig
 Manufacturer videos were used from youtube the links to the actual equipment is below:
 * Grizzley CNC Router https://www.grizzly.com/products/grizzly-24-x-36-cnc-router/g0894
 * BossLaser Engraver https://www.bosslaser.com/full-laser-line-up/boss-hp-2436.html
+
 #
 # PLANS FOR THE FUTURE
 
