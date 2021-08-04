@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-This site was developed to complete an HTML5 course that I took as part of the second bachelors degree program UMASS Lowell. The requirements set forth for the assignment are detailed below.  My wife has talked endlessly about starting a business like this, making signs using the technologies on the Capabilities page. All of the signs were made by others and the pictures were borrowed from Etsy.  The descriptions are completely fabricated to make the site look and feel like a real business.  So much so that my professor asked us to make signs for him, I had to let that oportunity go since we are definitely not up and running yet.  
+This site was developed to complete an HTML5 course that I took as part of the second bachelors degree program UMASS Lowell. The requirements set forth for the assignment are detailed below.  My wife has talked endlessly about starting a business like this, making signs using the technologies on the Capabilities page. All of the signs were made by others and the pictures were borrowed from Etsy.  The descriptions are completely fabricated to make the site look and feel like a real business.  So much so that my professor asked us to make signs for him, I had to let that opportunity go since we are definitely not up and running yet.  
 
 #
 # FINAL PROJECT DESCRIPTION
