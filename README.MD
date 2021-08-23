@@ -31,7 +31,7 @@ One final request: keep the audio/video files short ... I don’t need to watch 
 
 #
 # FINAL SITE PAGES
-##
+
 ## Home Page
 
 Trying to stay true to a color scheme that I selected to make a calm and appealing site.  I tried to use earth tones and some but not too many pictures to create a site that looked professional and was easy to read.
