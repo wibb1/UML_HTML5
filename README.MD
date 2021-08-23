@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-This site was developed to complete an HTML5 course that I took as part of the second bachelors degree program UMASS Lowell. The requirements set forth for the assignment are detailed below.  My wife has talked endlessly about starting a business like this, making signs using the technologies on the Capabilities page. All of the signs were made by others and the pictures were borrowed from Etsy.  The descriptions are completely fabricated to make the site look and feel like a real business.  So much so that my professor asked us to make signs for him, I had to let that oportunity go since we are definitely not up and running yet.  
+This site was developed to complete an HTML5 course that I took as part of the second bachelors degree program UMASS Lowell. The requirements set forth for the assignment are detailed below.  My wife has talked endlessly about starting a business like this, making signs using the technologies on the Capabilities page. All of the signs were made by others and the pictures were borrowed from Etsy.  The descriptions are completely fabricated to make the site look and feel like a real business.  So much so that my professor asked us to make signs for him, I had to let that opportunity go since we are definitely not up and running yet.  
 
 #
 # FINAL PROJECT DESCRIPTION
@@ -79,10 +79,10 @@ The capabilities page contains a video player for a video that I made of the exi
 Photographs were borrowed from Etsy since I don’t have the ability to make signs – yet.  There are many talented artists creating beautiful wooden signs that can be found for sale on Etsy https://www.etsy.com/
 
 Manufacturer videos were used from youtube the links to the actual equipment is below:
-* Grizzley CNC Router https://www.grizzly.com/products/grizzly-24-x-36-cnc-router/g0894
+* Grizzly CNC Router https://www.grizzly.com/products/grizzly-24-x-36-cnc-router/g0894
 * BossLaser Engraver https://www.bosslaser.com/full-laser-line-up/boss-hp-2436.html
 
 #
 # PLANS FOR THE FUTURE
 
-My wife is facinated by these "toys" and would love to start a business. When we get around to starting this I will need to make some sample signs and take some pictures to replace those from Etsy.  Then toss a back end on it and find an available URL.  
+My wife is fascinated by these "toys" and would love to start a business. When we get around to starting this I will need to make some sample signs and take some pictures to replace those from Etsy.  Then toss a back end on it and find an available URL.  
